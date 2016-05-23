@@ -1,7 +1,7 @@
 //
 //  RFMAdmobInterstitialAdapter.h
-//  v3.1.4
-//  Integrated with RFM iOS SDK v 4.1.0
+//  v3.1.5
+//  Integrated with RFM iOS SDK v 4.2.0
 //  Integrated with Admob iOS SDK :7.6.0
 //
 //  Header file for integrating RFM SDK with DFP/Admob SDK
@@ -13,6 +13,7 @@
 
 #import <Foundation/Foundation.h>
 #import <GoogleMobileAds/GADCustomEventBanner.h>
+#import <GoogleMobileAds/GADCustomEventInterstitial.h>
 #import <RFMAdSDK/RFMAdSDK.h>
 
 @interface RFMAdmobInterstitialAdapter : NSObject  <GADCustomEventInterstitial, RFMAdDelegate>

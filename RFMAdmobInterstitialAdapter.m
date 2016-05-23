@@ -1,7 +1,7 @@
 //
 //  RFMAdmobInterstitialAdapter.m
-//  v3.1.4
-//  Integrated with RFM iOS SDK v 4.1.0
+//  v3.1.5
+//  Integrated with RFM iOS SDK v 4.2.0
 //  Integrated with Admob iOS SDK :7.6.0
 //
 //  Source file for integrating RFM SDK with DFP/Admob SDK
@@ -19,7 +19,7 @@
 
 
 #define RFM_ADAPTER_VER_KEY @"adp_version"
-#define RFM_DFP_ADAPTER_VER @"dfp_adp_3.1.4"
+#define RFM_DFP_ADAPTER_VER @"dfp_adp_3.1.5"
 
 @interface RFMAdmobInterstitialAdapter()
 
